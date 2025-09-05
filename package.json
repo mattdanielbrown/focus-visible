@@ -29,7 +29,7 @@
   "homepage": "https://github.com/WICG/focus-visible",
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^2.2.10",
-    "ajv": "^6.0.0",
+    "ajv": "^8.17.1",
     "clear-module": "^2.1.0",
     "concurrently": "^4.0.0",
     "cross-env": "^5.1.4",

@@ -40,7 +40,7 @@
     "geckodriver": "^1.12.1",
     "glob-promise": "^3.3.0",
     "http-server": "^0.11.0",
-    "husky": "^0.14.3",
+    "husky": "^9.1.7",
     "lint-staged": "^7.0.5",
     "mocha": "^5.1.1",
     "mz": "^2.7.0",

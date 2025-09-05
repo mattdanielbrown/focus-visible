@@ -41,7 +41,7 @@
     "glob-promise": "^3.3.0",
     "http-server": "^0.11.0",
     "husky": "^0.14.3",
-    "lint-staged": "^7.0.5",
+    "lint-staged": "^16.1.5",
     "mocha": "^5.1.1",
     "mz": "^2.7.0",
     "prettier": "^1.12.1",

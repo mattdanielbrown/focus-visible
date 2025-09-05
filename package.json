@@ -34,7 +34,7 @@
     "concurrently": "^4.0.0",
     "cross-env": "^5.1.4",
     "eslint": "^5.0.0",
-    "eslint-config-prettier": "^3.0.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-es5": "^1.2.0",
     "expect": "^1.20.2",
     "geckodriver": "^1.12.1",
